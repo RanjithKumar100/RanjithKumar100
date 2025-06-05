@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjithkumar100&label=Profile%20views&color=0e75b6&style=flat" alt="ranjithkumar100" /> </p>
 
-- 🔭 I’m currently working on **CTS(Cognizant) Hackathon**
+- 🔭 I’m currently working on **AI Chatbot(LOF)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **AI Tools and ML Frameworks**
 
 - 📫 How to reach me **ranjithsivakumar2004@gmail.com**
 
