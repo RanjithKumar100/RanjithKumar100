@@ -1,4 +1,7 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hey there! I'm Ranjith Kumar S
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" />
+</p>
+<h1 align="center">Hey there! I'm Ranjith Kumar S</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=AI+Engineer+%7C+Full+Stack+Developer;Passionate+about+Machine+Learning;Building+the+Future+with+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
@@ -11,22 +14,7 @@
 
 ## 🚀 About Me
 
-```python
-class RanjithKumarS:
-    def __init__(self):
-        self.name = "Ranjith Kumar S"
-        self.role = "AI Engineer & Full Stack Developer"
-        self.location = "India 🇮🇳"
-        self.current_project = "AI Chatbot (LOF)"
-        self.learning = ["AI Tools", "ML Frameworks", "Deep Learning"]
-        self.interests = ["Artificial Intelligence", "Machine Learning", "Web Development"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = RanjithKumarS()
-me.say_hi()
-```
+I'm Ranjith Kumar S, an AI Engineer from India. Currently building an AI Chatbot (LOF) while learning AI Tools, ML Frameworks, and Deep Learning. My interests span Artificial Intelligence, Machine Learning, and Web Development. Thanks for dropping by! Let's build something amazing together!
 
 ## 🔥 Current Focus
 
@@ -80,18 +68,6 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=ranjithkumar100&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranjithkumar100&bg_color=0D1117&color=7c3aed&line=7c3aed&point=a855f7&area=true&hide_border=true" />
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/ranjithkumar100/ai-chatbot-lof">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjithkumar100&repo=ai-chatbot-lof&theme=radical&hide_border=true" />
-  </a>
-</div>
 
 ## 🤝 Let's Connect!
 
@@ -101,19 +77,4 @@ me.say_hi()
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjithsivakumar2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjithkumar100)
 
-</div>
-
-## 💭 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" />
-  
-  ### ⭐ From [Ranjith Kumar S](https://github.com/ranjithkumar100) with ❤️
-  
-  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 </div>
