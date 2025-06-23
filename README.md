@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjith Kumar S</h1>
-<h3 align="center">A passionate programmer and web developer.</h3>
+<h3 align="center">A passionate programmer and AI Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjithkumar100&label=Profile%20views&color=0e75b6&style=flat" alt="ranjithkumar100" /> </p>
 
